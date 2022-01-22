@@ -1,0 +1,56 @@
+.text-center {
+  text-align: center;
+}
+
+.bg-grey {
+  background: rgb(238, 238, 238);
+}
+
+.bg-green1{
+    background: #7EE5DA;
+}
+
+.bg-green2{
+    background: #70CCC2;
+}
+
+.bg-green3{
+    background: #62B3AA;
+}
+
+.block{
+    display: block;
+}
+
+.flex{
+    display: flex;
+}
+
+.mx-auto{
+    margin: 0 50px;
+}
+
+.mb-2{
+    margin-bottom: 2px;
+}
+
+.mt-16{
+    margin-top: 16px;
+}
+
+.fs-small{
+    font-size: small;
+}
+
+
+.w37{
+    width: 37%;
+}
+
+.w26{
+    width: 26%;
+}
+
+.m1{
+    margin: 1px;
+}
